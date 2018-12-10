@@ -1,11 +1,11 @@
 <?php
     
     //Connect to the database
-    $host = "$IP";
+    $host = "$localhost";
     $user = "aargonzafonza";                     //Your Cloud 9 username
     $pass = "";                                  //Remember, there is NO password by default!
     $db = "sample_db";                                  //Your database name you want to connect to
-    $port = "$PORT";                                //The port #. It is always 3306
+    $port = 3306;                                //The port #. It is always 3306
     
     $connection = mysqli_connect($host, $user, $pass, $db, $port)or die(mysql_error());
 
