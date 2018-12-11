@@ -1,0 +1,166 @@
+#Title{ 
+		font-family: "Courier";
+		font-weight: bold;
+		text-decoration: underline;
+		text-align: center; 
+		color: orange;
+		background-color: transparent;
+		padding: rounded;
+}
+
+
+
+
+
+#ContactMe {
+			font-family: "Verdana";
+			font-weight: bold;
+			margin-left: 15px;
+			color: DodgerBlue;
+			
+			
+}
+#TheHeader {
+			font-family: "Verdana";
+			font-weight: bold;
+			margin-left: 15px;
+			color: DodgerBlue;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.navbar {
+    overflow: hidden; 
+	background-color: transparent;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+	font-weight: bold;
+	border: outset;
+	border-color: orange;
+    color: orange;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 10px;
+    text-decoration: underline;
+}
+
+.subnav {
+    float: left;
+    overflow: hidden;
+}
+
+.subnav .subnavbtn {
+    font-size: 16px;  
+	font-weight: bold;
+    border: outset;
+    border-color: orange;
+    outline: none;
+    color: orange;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+	text-decoration: underline;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+    background-color: indigo;
+}
+
+.subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: black;
+    width: 100%;
+    z-index: 1;
+}
+
+.subnav-content a {
+    float: left;
+    color: white;
+	text-decoration: none;
+  
+}
+
+.subnav-content a:hover {
+    background-color: #eee;
+    color: black;
+}
+
+.subnav:hover .subnav-content {
+    display: block;
+}
+
+
+
+
+#date_time{
+	margin-left: 0px;
+	border: double;
+	border-color: orange;
+
+
+
+}
+
+#myfunction{
+	margin-left: px;
+
+
+
+
+
+}
+
+
+body { 
+		
+	font-family: "Verdana";
+	color: Orange;
+	
+	 background-image: url("https://wallpaperplay.com/walls/full/3/9/5/132995.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 background-attachment: fixed;
+	 margin-left:0px;
+}
+
+h2 {
+	font-family: "Impact";
+	color: Orange;
+	text-decoration: underline;
+	text-align: left;
+}
+
+main {
+		font-family: "Verdana";
+		margin-left: px;
+		text-align: left;
+		
+}
+		
+p {
+			margin-left: 15px;
+			margin-right: px;
+			text-align: center;
+			color: Orange;
+}
+
+#Home{ 
+		text-align: center;
+
+
+
+
+
+
+
+
+}
