@@ -1,5 +1,5 @@
 #Title{ 
-		font-family: "Courier";
+		font-family: "Garamond";
 		font-weight: bold;
 		text-decoration: underline;
 		text-align: center; 
@@ -43,6 +43,7 @@ body {
 	font-weight: bold;
 	border: outset;
 	border-color: orange;
+	background-color: black;
     color: orange;
     text-align: center;
     padding: 14px 16px;
