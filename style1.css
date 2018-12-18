@@ -47,7 +47,7 @@ body {
     color: orange;
     text-align: center;
     padding: 14px 16px;
-    margin: 10px;
+    margin: 5px;
     text-decoration: underline;
 }
 
@@ -106,7 +106,7 @@ body {
 	margin-left: 0px;
 	border: double;
 	border-color: orange;
-
+	background-color: black;
 
 
 }
@@ -142,26 +142,32 @@ h2 {
 
 main {
 		font-family: "Verdana";
-		margin-left: px;
+		margin-left: 30px;
 		text-align: left;
 		
 }
 		
 p {
-			margin-left: 15px;
-			margin-right: px;
-			text-align: center;
+			margin-left: 35px;
+			margin-right: 20px;
+			text-align: left;
 			color: Orange;
+			background-color: black;
 }
+
+li{
+			background-color: black;
+			margin-left: 35px;
+			margin-right: 20px;
+
+
+
+}
+
+
 
 #Home{ 
-		text-align: center;
-
-
-
-
-
-
-
-
+		text-align: left;
+		margin-left: px;
 }
+
