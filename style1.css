@@ -2,14 +2,12 @@
 		font-family: "Garamond";
 		font-weight: bold;
 		text-decoration: underline;
+		text-decoration: strikethrough;
 		text-align: center; 
 		color: orange;
 		background-color: transparent;
 		padding: rounded;
 }
-
-
-
 
 
 #ContactMe {
