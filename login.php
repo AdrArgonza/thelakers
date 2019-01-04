@@ -3,6 +3,6 @@
     $host = "127.0.0.1";
     $user = "aargonzafonza";                     
     $pass = "";                                  
-    $db = "thelakers";                         
+    $db = "the_lakers";                         
     $port = 3306;                                    
 ?>
