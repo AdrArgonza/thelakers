@@ -5,6 +5,6 @@
 			$query = "SELECT * FROM players";
 			$result = mysqli_query($connection, $query);
 			while ($row = mysqli_fetch_assoc($result)) {
-			echo . $row['playername'] . . $row['url'] . . $row['playernumber'] . . $row['playerposition'] . . $row['PPG'] . . $row['height'] . . $row['weight'] . . $row['age'] . . $row['yeardrafted'] . . $row['yearsintheleague'] . . $row['playertext'];
+			echo " Player's Name: " . $row['playername'] . "URL: ". $row['url'] . "Player's Number: " . $row['playernumber'] . "Player's Position: " . $row['playerposition'] . "Points Per Game:" . $row['PPG'] . "Player's Height: " . $row['height'] . "Player's Weight: " . $row['weight'] . "Player's Age: " . $row['age'] . "Year Drafted: " . $row['yeardrafted'] . "Years in the League: " . $row['yearsintheleague'] . "About the Player: " . $row['playertext'];
 		}
 ?>
